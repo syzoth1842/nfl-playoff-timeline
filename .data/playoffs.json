@@ -1,0 +1,580 @@
+{
+  "playoffData": [
+    {
+      "year": 1966,
+      "teams": ["BUF Bills", "DAL Cowboys", "GB Packers", "KC Chiefs"],
+      "superBowlWinner": "GB Packers",
+      "conferenceChampions": ["GB Packers", "KC Chiefs"],
+      "conferenceLosers": ["DAL Cowboys", "BUF Bills"]
+    },
+    {
+      "year": 1967,
+      "teams": ["CLE Browns", "DAL Cowboys", "GB Packers", "LAR Rams", "OAK Raiders", "HOU Oilers"],
+      "superBowlWinner": "GB Packers",
+      "conferenceChampions": ["GB Packers", "OAK Raiders"],
+      "conferenceLosers": ["DAL Cowboys", "HOU Oilers"],
+      "notes": {
+        "GB Packers": "First team to 2-peat."
+      }
+    },
+    {
+      "year": 1968,
+      "teams": ["CLE Browns", "DAL Cowboys", "BAL Colts", "KC Chiefs", "OAK Raiders", "MIN Vikings", "NYJ Jets"],
+      "superBowlWinner": "NYJ Jets",
+      "conferenceChampions": ["NYJ Jets", "BAL Colts"],
+      "conferenceLosers": ["CLE Browns", "OAK Raiders"]
+    },
+    {
+      "year": 1969,
+      "teams": ["CLE Browns", "DAL Cowboys", "KC Chiefs", "LAR Rams", "OAK Raiders", "MIN Vikings", "NYJ Jets", "HOU Oilers"],
+      "superBowlWinner": "KC Chiefs",
+      "conferenceChampions": ["KC Chiefs", "MIN Vikings"],
+      "conferenceLosers": ["CLE Browns", "OAK Raiders"]
+    },
+    {
+      "year": 1970,
+      "teams": ["CIN Bengals", "DAL Cowboys", "DET Lions", "BAL Colts", "OAK Raiders", "MIA Dolphins", "MIN Vikings", "SF 49ers"],
+      "superBowlWinner": "BAL Colts",
+      "conferenceChampions": ["BAL Colts", "DAL Cowboys"],
+      "conferenceLosers": ["OAK Raiders", "SF 49ers"]
+    },
+    {
+      "year": 1971,
+      "teams": ["CLE Browns", "DAL Cowboys", "BAL Colts", "KC Chiefs", "MIA Dolphins", "MIN Vikings", "SF 49ers", "WAS Redskins"],
+      "superBowlWinner": "DAL Cowboys",
+      "conferenceChampions": ["DAL Cowboys", "MIA Dolphins"],
+      "conferenceLosers": ["BAL Colts", "SF 49ers"]
+    },
+    {
+      "year": 1972,
+      "teams": ["CLE Browns", "DAL Cowboys", "GB Packers", "OAK Raiders", "MIA Dolphins", "PIT Steelers", "SF 49ers", "WAS Redskins"],
+      "superBowlWinner": "MIA Dolphins",
+      "conferenceChampions": ["MIA Dolphins", "WAS Redskins"],
+      "conferenceLosers": ["DAL Cowboys", "PIT Steelers"]
+    },
+    {
+      "year": 1973,
+      "teams": ["CIN Bengals", "DAL Cowboys", "LAR Rams", "OAK Raiders", "MIA Dolphins", "MIN Vikings", "PIT Steelers", "WAS Redskins"],
+      "superBowlWinner": "MIA Dolphins",
+      "conferenceChampions": ["MIA Dolphins", "MIN Vikings"],
+      "conferenceLosers": ["DAL Cowboys", "OAK Raiders"]
+    },
+    {
+      "year": 1974,
+      "teams": ["STL Cardinals", "BUF Bills", "LAR Rams", "OAK Raiders", "MIA Dolphins", "MIN Vikings", "PIT Steelers", "WAS Redskins"],
+      "superBowlWinner": "PIT Steelers",
+      "conferenceChampions": ["PIT Steelers", "MIN Vikings"],
+      "conferenceLosers": ["LAR Rams", "OAK Raiders"]
+    },
+    {
+      "year": 1975,
+      "teams": ["STL Cardinals", "CIN Bengals", "DAL Cowboys", "BAL Colts", "LAR Rams", "OAK Raiders", "MIN Vikings", "PIT Steelers"],
+      "superBowlWinner": "PIT Steelers",
+      "conferenceChampions": ["PIT Steelers", "DAL Cowboys"],
+      "conferenceLosers": ["LAR Rams", "OAK Raiders"]
+    },
+    {
+      "year": 1976,
+      "teams": ["DAL Cowboys", "BAL Colts", "LAR Rams", "OAK Raiders", "MIN Vikings", "NWE Patriots", "PIT Steelers", "WAS Redskins"],
+      "superBowlWinner": "OAK Raiders",
+      "conferenceChampions": ["OAK Raiders", "MIN Vikings"],
+      "conferenceLosers": ["LAR Rams", "PIT Steelers"]
+    },
+    {
+      "year": 1977,
+      "teams": ["CHI Bears", "DAL Cowboys", "DEN Broncos", "BAL Colts", "LAR Rams", "OAK Raiders", "MIN Vikings", "PIT Steelers"],
+      "superBowlWinner": "DAL Cowboys",
+      "conferenceChampions": ["DAL Cowboys", "DEN Broncos"],
+      "conferenceLosers": ["OAK Raiders", "MIN Vikings"]
+    },
+    {
+      "year": 1978,
+      "teams": ["ATL Falcons", "DAL Cowboys", "DEN Broncos", "LAR Rams", "MIA Dolphins", "MIN Vikings", "NWE Patriots", "PHI Eagles", "PIT Steelers", "HOU Oilers"],
+      "superBowlWinner": "PIT Steelers",
+      "conferenceChampions": ["PIT Steelers", "DAL Cowboys"],
+      "conferenceLosers": ["HOU Oilers", "LAR Rams"]
+    },
+    {
+      "year": 1979,
+      "teams": ["CHI Bears", "DAL Cowboys", "DEN Broncos", "SD Chargers", "LAR Rams", "MIA Dolphins", "PHI Eagles", "PIT Steelers", "TAM Buccaneers", "HOU Oilers"],
+      "superBowlWinner": "PIT Steelers",
+      "conferenceChampions": ["PIT Steelers", "LAR Rams"],
+      "conferenceLosers": ["HOU Oilers", "TAM Buccaneers"]
+    },
+    {
+      "year": 1980,
+      "teams": ["ATL Falcons", "BUF Bills", "CLE Browns", "DAL Cowboys", "SD Chargers", "LAR Rams", "OAK Raiders", "MIN Vikings", "PHI Eagles", "HOU Oilers"],
+      "superBowlWinner": "OAK Raiders",
+      "conferenceChampions": ["OAK Raiders", "PHI Eagles"],
+      "conferenceLosers": ["DAL Cowboys", "SD/LAC Chargers"]
+    },
+    {
+      "year": 1981,
+      "teams": ["BUF Bills", "CIN Bengals", "DAL Cowboys", "SD Chargers", "MIA Dolphins", "NYG Giants", "NYJ Jets", "PHI Eagles", "SF 49ers", "TAM Buccaneers"],
+      "superBowlWinner": "SF 49ers",
+      "conferenceChampions": ["SF 49ers", "CIN Bengals"],
+      "conferenceLosers": ["DAL Cowboys", "SD/LAC Chargers"]
+    },
+    {
+      "year": 1982,
+      "teams": ["STL Cardinals", "ATL Falcons", "CIN Bengals", "CLE Browns", "DAL Cowboys", "DET Lions", "GB Packers", "SD Chargers", "LA Raiders", "MIA Dolphins", "MIN Vikings", "NWE Patriots", "NYJ Jets", "PIT Steelers", "TAM Buccaneers", "WAS Redskins"],
+      "superBowlWinner": "WAS Redskins",
+      "conferenceChampions": ["WAS Redskins", "MIA Dolphins"],
+      "conferenceLosers": ["NYJ Jets", "DAL Cowboys"]
+    },
+    {
+      "year": 1983,
+      "teams": ["DAL Cowboys", "DEN Broncos", "DET Lions", "LAR Rams", "LA Raiders", "MIA Dolphins", "PIT Steelers", "SEA Seahawks", "SF 49ers", "WAS Redskins"],
+      "superBowlWinner": "LA Raiders",
+      "conferenceChampions": ["LA Raiders", "WAS Redskins"],
+      "conferenceLosers": ["SF 49ers", "SEA Seahawks"]
+    },
+    {
+      "year": 1984,
+      "teams": ["CHI Bears","DEN Broncos", "LAR Rams", "LA Raiders", "MIA Dolphins", "NYG Giants", "PIT Steelers", "SEA Seahawks", "SF 49ers", "WAS Redskins"],
+      "superBowlWinner": "SF 49ers",
+      "conferenceChampions": ["SF 49ers", "MIA Dolphins"],
+      "conferenceLosers": ["PIT Steelers", "CHI Bears"]
+    },
+    {
+      "year": 1985,
+      "teams": ["CHI Bears", "CLE Browns", "DAL Cowboys", "LAR Rams", "LA Raiders", "MIA Dolphins", "NWE Patriots", "NYG Giants", "NYJ Jets", "SF 49ers"],
+      "superBowlWinner": "CHI Bears",
+      "conferenceChampions": ["CHI Bears", "NWE Patriots"],
+      "conferenceLosers": ["MIA Dolphins", "LAR Rams"],
+      "notes": {
+        "CHI Bears": "Allowed 10 points in 3 playoff games, best by a defense in playoff history."
+      }
+    },
+    {
+      "year": 1986,
+      "teams": ["CHI Bears", "CLE Browns", "DEN Broncos", "KC Chiefs", "LAR Rams", "NWE Patriots", "NYG Giants", "NYJ Jets", "SF 49ers", "WAS Redskins"],
+      "superBowlWinner": "NYG Giants",
+      "conferenceChampions": ["NYG Giants", "DEN Broncos"],
+      "conferenceLosers": ["CLE Browns", "WAS Redskins"],
+      "notes": {
+        "KC Chiefs": "First playoff berth since 1971."
+      }
+    },
+    {
+      "year": 1987,
+      "teams": ["CHI Bears", "CLE Browns", "DEN Broncos", "IND Colts", "MIA Dolphins", "MIN Vikings", "NO Saints", "SEA Seahawks", "SF 49ers", "HOU Oilers", "WAS Redskins"],
+      "superBowlWinner": "WAS Redskins",
+      "conferenceChampions": ["WAS Redskins", "DEN Broncos"],
+      "conferenceLosers": ["CLE Browns", "MIN Vikings"]
+    },
+    {
+      "year": 1988,
+      "teams": ["BUF Bills", "CHI Bears", "CIN Bengals", "CLE Browns", "LAR Rams", "MIN Vikings", "PHI Eagles", "SEA Seahawks", "SF 49ers", "HOU Oilers"],
+      "superBowlWinner": "SF 49ers",
+      "conferenceChampions": ["SF 49ers", "CIN Bengals"],
+      "conferenceLosers": ["BUF Bills", "CHI Bears"]
+    },
+    {
+      "year": 1989,
+      "teams": ["BUF Bills", "CLE Browns", "DEN Broncos", "LAR Rams", "MIN Vikings", "NYG Giants", "PHI Eagles", "PIT Steelers", "SF 49ers", "HOU Oilers"],
+      "superBowlWinner": "SF 49ers",
+      "conferenceChampions": ["SF 49ers", "DEN Broncos"],
+      "conferenceLosers": ["CLE Browns", "LAR Rams"],
+      "notes": {
+        "CLE Browns": "Most recent AFC Championship appearance.",
+        "DEN Broncos": "Record for biggest blowout in Super Bowl history, 10-55 (Broncos vs 49ers Super Bowl 24)."
+      }
+    },
+    {
+      "year": 1990,
+      "teams": ["BUF Bills", "CHI Bears", "CIN Bengals", "KC Chiefs", "LA Raiders", "MIA Dolphins", "NO Saints", "NYG Giants", "PHI Eagles", "SF 49ers", "HOU Oilers", "WAS Redskins"],
+      "superBowlWinner": "NYG Giants",
+      "conferenceChampions": ["NYG Giants", "BUF Bills"],
+      "conferenceLosers": ["OAK Raiders", "SF 49ers"]
+    },
+    {
+      "year": 1991,
+      "teams": ["ATL Falcons", "BUF Bills", "CHI Bears", "DAL Cowboys", "DEN Broncos", "DET Lions", "KC Chiefs", "LA Raiders", "NO Saints", "NYJ Jets", "HOU Oilers", "WAS Redskins"],
+      "superBowlWinner": "WAS Redskins",
+      "conferenceChampions": ["WAS Redskins", "BUF Bills"],
+      "conferenceLosers": ["DEN Broncos", "DET Lions"]
+    },
+    {
+      "year": 1992,
+      "teams": ["BUF Bills", "DAL Cowboys", "KC Chiefs", "SD Chargers", "MIA Dolphins", "MIN Vikings", "NO Saints", "PHI Eagles", "PIT Steelers", "SF 49ers", "HOU Oilers", "WAS Redskins"],
+      "superBowlWinner": "DAL Cowboys",
+      "conferenceChampions": ["DAL Cowboys", "BUF Bills"],
+      "conferenceLosers": ["MIA Dolphins", "SF 49ers"],
+      "notes": {
+        "MIA Dolphins": "Most recent AFC Championship appearance.",
+        "HOU/TEN Oilers/Titans": "Biggest blown lead in playoff history, 35-3 (Oilers vs Bills AFC Wildcard Round).",
+        "SD/LAC Chargers": "Started 0-4 and finished 11-5. First playoff berth since 1982."
+      }
+    },
+    {
+      "year": 1993,
+      "teams": ["BUF Bills", "DAL Cowboys", "DEN Broncos", "DET Lions", "GB Packers", "KC Chiefs", "LA Raiders", "MIN Vikings", "NYG Giants", "PIT Steelers", "SF 49ers", "HOU Oilers"],
+      "superBowlWinner": "DAL Cowboys",
+      "conferenceChampions": ["DAL Cowboys", "BUF Bills"],
+      "conferenceLosers": ["KC Chiefs", "SF 49ers"],
+      "notes": {
+        "BUF Bills": "Tied with Vikings 0-4 record in the Super Bowl, only team to lose 4 straight Super Bowls."
+      }
+    },
+    {
+      "year": 1994,
+      "teams": ["CHI Bears", "CLE Browns", "DAL Cowboys", "DET Lions", "GB Packers", "KC Chiefs", "SD Chargers", "MIA Dolphins", "MIN Vikings", "NWE Patriots", "PIT Steelers", "SF 49ers"],
+      "superBowlWinner": "SF 49ers",
+      "conferenceChampions": ["SF 49ers", "SD/LAC Chargers"],
+      "conferenceLosers": ["DAL Cowboys", "PIT Steelers"]
+    },
+    {
+      "year": 1995,
+      "teams": ["ATL Falcons", "BUF Bills", "DAL Cowboys", "DET Lions", "GB Packers", "IND Colts", "KC Chiefs", "SD Chargers", "MIA Dolphins", "PHI Eagles", "PIT Steelers", "SF 49ers"],
+      "superBowlWinner": "DAL Cowboys",
+      "conferenceChampions": ["DAL Cowboys", "PIT Steelers"],
+      "conferenceLosers": ["GB Packers", "IND Colts"],
+      "notes": {
+        "DAL Cowboys": "Most recent NFC Championship appearance."
+      }
+    },
+    {
+      "year": 1996,
+      "teams": ["BUF Bills", "CAR Panthers", "DAL Cowboys", "DEN Broncos", "GB Packers", "IND Colts", "JAX Jaguars", "MIN Vikings", "NWE Patriots", "PHI Eagles", "PIT Steelers", "SF 49ers"],
+      "superBowlWinner": "GB Packers",
+      "conferenceChampions": ["GB Packers", "NWE Patriots"],
+      "conferenceLosers": ["CAR Panthers", "JAX Jaguars"]
+    },
+    {
+      "year": 1997,
+      "teams": ["DEN Broncos", "DET Lions", "GB Packers", "JAX Jaguars", "KC Chiefs", "MIA Dolphins", "MIN Vikings", "NWE Patriots", "NYG Giants", "PIT Steelers", "SF 49ers", "TAM Buccaneers"],
+      "superBowlWinner": "DEN Broncos",
+      "conferenceChampions": ["DEN Broncos", "GB Packers"],
+      "conferenceLosers": ["PIT Steelers", "SF 49ers"],
+      "notes": {
+        "DEN Broncos": "First AFC Super Bowl champion since the 1983 Raiders."
+      }
+    },
+    {
+      "year": 1998,
+      "teams": [ "ARZ Cardinals","ATL Falcons", "BUF Bills", "DAL Cowboys", "DEN Broncos", "GB Packers", "JAX Jaguars", "MIA Dolphins", "MIN Vikings", "NWE Patriots", "NYJ Jets", "SF 49ers"],
+      "superBowlWinner": "DEN Broncos",
+      "conferenceChampions": ["DEN Broncos", "ATL Falcons"],
+      "conferenceLosers": ["NYJ Jets", "MIN Vikings"]
+    },
+    {
+      "year": 1999,
+      "teams": ["BUF Bills", "DAL Cowboys", "DET Lions", "IND Colts", "JAX Jaguars", "STL Rams", "MIA Dolphins", "MIN Vikings", "SEA Seahawks", "TAM Buccaneers", "TEN Titans", "WAS Redskins"],
+      "superBowlWinner": "STL Rams",
+      "conferenceChampions": ["STL Rams", "TEN Titans"],
+      "conferenceLosers": ["TAM Buccaneers", "JAX Jaguars"]
+    },
+    {
+      "year": 2000,
+      "teams": ["BAL Ravens", "DEN Broncos", "IND Colts", "STL Rams", "OAK Raiders", "MIA Dolphins", "MIN Vikings", "NO Saints", "NYG Giants", "PHI Eagles", "TAM Buccaneers", "TEN Titans"],
+      "superBowlWinner": "BAL Ravens",
+      "conferenceChampions": ["BAL Ravens", "NYG Giants"],
+      "conferenceLosers": ["OAK Raiders", "MIN Vikings"],
+      "notes": {
+        "MIA Dolphins": "Current record for longest playoff-win drought (26 years)."
+      }
+    },
+    {
+      "year": 2001,
+      "teams": ["BAL Ravens", "CHI Bears", "GB Packers", "STL Rams", "OAK Raiders", "MIA Dolphins", "NWE Patriots", "NYJ Jets", "PHI Eagles", "PIT Steelers", "SF 49ers", "TAM Buccaneers"],
+      "superBowlWinner": "NWE Patriots",
+      "conferenceChampions": ["NWE Patriots", "STL Rams"],
+      "conferenceLosers": ["PHI Eagles", "PIT Steelers"]
+    },
+    {
+      "year": 2002,
+      "teams": ["ATL Falcons", "CLE Browns", "GB Packers", "IND Colts", "OAK Raiders", "NYG Giants", "NYJ Jets", "PHI Eagles", "PIT Steelers", "SF 49ers", "TAM Buccaneers", "TEN Titans"],
+      "superBowlWinner": "TAM Buccaneers",
+      "conferenceChampions": ["TAM Buccaneers", "OAK Raiders"],
+      "conferenceLosers": ["TEN Titans", "PHI Eagles"],
+      "notes": {
+        "OAK/LA/LV Raiders": "2nd behind the Dolphins in playoff-win drought (24 years)."
+      }
+    },
+    {
+      "year": 2003,
+      "teams": ["BAL Ravens", "CAR Panthers", "DAL Cowboys", "DEN Broncos", "GB Packers", "IND Colts", "KC Chiefs", "STL Rams", "NWE Patriots", "PHI Eagles", "SEA Seahawks", "TEN Titans"],
+      "superBowlWinner": "NWE Patriots",
+      "conferenceChampions": ["NWE Patriots", "CAR Panthers"],
+      "conferenceLosers": ["IND Colts", "PHI Eagles"]
+    },
+    {
+      "year": 2004,
+      "teams": ["ATL Falcons", "DEN Broncos", "GB Packers", "IND Colts", "SD Chargers", "STL Rams", "MIN Vikings", "NWE Patriots", "NYJ Jets", "PHI Eagles", "PIT Steelers", "SEA Seahawks"],
+      "superBowlWinner": "NWE Patriots",
+      "conferenceChampions": ["NWE Patriots", "PHI Eagles"],
+      "conferenceLosers": ["PIT Steelers", "ATL Falcons"],
+      "notes": {
+        "SD/LAC Chargers": "First playoff berth since 1995."
+      }
+    },
+    {
+      "year": 2005,
+      "teams": ["CAR Panthers", "CHI Bears", "CIN Bengals", "DEN Broncos", "IND Colts", "JAX Jaguars", "NWE Patriots", "NYG Giants", "PIT Steelers", "SEA Seahawks", "TAM Buccaneers", "WAS Redskins"],
+      "superBowlWinner": "PIT Steelers",
+      "conferenceChampions": ["PIT Steelers", "SEA Seahawks"],
+      "conferenceLosers": ["DEN Broncos", "CAR Panthers"],
+      "notes": {
+        "PIT Steelers": "Super Bowl win tainted by notoriously bad refs."
+      }
+    },
+    {
+      "year": 2006,
+      "teams": ["BAL Ravens", "CHI Bears", "DAL Cowboys", "IND Colts", "KC Chiefs", "SD Chargers", "NWE Patriots", "NO Saints", "NYG Giants", "NYJ Jets", "PHI Eagles", "SEA Seahawks"],
+      "superBowlWinner": "IND Colts",
+      "conferenceChampions": ["IND Colts", "CHI Bears"],
+      "conferenceLosers": ["NWE Patriots", "NO Saints"],
+      "notes": {
+        "BAL/IND Colts": "Came back down 21-3 against Patriots, Manning has first playoff win against Tom Brady (Patriots vs Colts AFC Championship)."
+      }
+    },
+    {
+      "year": 2007,
+      "teams": ["DAL Cowboys", "GB Packers", "IND Colts", "JAX Jaguars", "SD Chargers", "NWE Patriots", "NYG Giants", "PIT Steelers", "SEA Seahawks", "TAM Buccaneers", "TEN Titans", "WAS Redskins"],
+      "superBowlWinner": "NYG Giants",
+      "conferenceChampions": ["NYG Giants", "NWE Patriots"],
+      "conferenceLosers": ["SD/LAC Chargers", "GB Packers"],
+      "notes": {
+        "NWE Patriots": "Best single season team in NFL History, 16-0 and record high +315 point differential.",
+        "NYG Giants": "Upsetted 18-1 Patriots in Super Bowl 42, largest upset in Super Bowl and NFL history (Giants vs Patriots Super Bowl 42).",
+        "SD/LAC Chargers": "First playoff win since 1994."
+      }
+    },
+    {
+      "year": 2008,
+      "teams": ["ARZ Cardinals", "ATL Falcons", "BAL Ravens", "CAR Panthers", "IND Colts", "SD Chargers", "MIA Dolphins", "MIN Vikings", "NYG Giants", "PHI Eagles", "PIT Steelers", "TEN Titans"],
+      "superBowlWinner": "PIT Steelers",
+      "conferenceChampions": ["PIT Steelers", "ARZ Cardinals"],
+      "conferenceLosers": ["BAL Ravens", "PHI Eagles"],
+      "notes": {
+        "PIT Steelers": "Last team to allow below 14 points/game (223 points allowed)."
+      }
+    },
+    {
+      "year": 2009,
+      "teams": ["ARZ Cardinals", "BAL Ravens", "CIN Bengals", "DAL Cowboys", "GB Packers", "IND Colts", "SD Chargers", "MIN Vikings", "NWE Patriots", "NO Saints", "NYJ Jets", "PHI Eagles"],
+      "superBowlWinner": "NO Saints",
+      "conferenceChampions": ["NO Saints", "IND Colts"],
+      "conferenceLosers": ["NYJ Jets", "MIN Vikings"],
+      "notes": {
+        "SD/LAC Chargers": "Franchise record for consecutive playoff seasons, 4 (2006-2009).",
+        "NYJ Jets": "Historically dominant secondary, carried sorry ass Mark Sanchez."
+      }
+    },
+    {
+      "year": 2010,
+      "teams": ["ATL Falcons", "BAL Ravens", "CHI Bears", "GB Packers", "IND Colts", "KC Chiefs", "NWE Patriots", "NO Saints", "NYJ Jets", "PHI Eagles", "PIT Steelers", "SEA Seahawks"],
+      "superBowlWinner": "GB Packers",
+      "conferenceChampions": ["GB Packers", "PIT Steelers"],
+      "conferenceLosers": ["NYJ Jets", "CHI Bears"],
+      "negativeRecord": ["SEA Seahawks"],
+      "notes": {
+        "SEA Seahawks": "First team with a losing record to win a playoff game.",
+        "NYJ Jets": "Most recent playoff appearance/win.",
+        "PIT Steelers": "Last AFC Championship game without the Chiefs, Patriots, or Broncos."
+      }
+    },
+    {
+      "year": 2011,
+      "teams": ["ATL Falcons", "BAL Ravens", "CIN Bengals", "DEN Broncos", "DET Lions", "GB Packers", "HOU Texans", "NWE Patriots", "NO Saints", "NYG Giants", "PIT Steelers", "SF 49ers"],
+      "superBowlWinner": "NYG Giants",
+      "conferenceChampions": ["NYG Giants", "NWE Patriots"],
+      "conferenceLosers": ["BAL Ravens", "SF 49ers"],
+      "notes": {
+        "NYG Giants": "First negative point differential for a Super Bowl winner.",
+        "NO Saints": "Most yards by an offense, 7474 Total Yards (467.1 yards/game).",
+        "GB Packers": "First 15-win team to not win a playoff game (Giants vs Packers NFC Divisional Round).",
+        "DET Lions": "First playoff berth since 1999.",
+        "HOU Texans": "First playoff berth in franchise history despite falling to 10-6 after a 10-3 start. The Bills remain the only team to not have had a single playoff berth in the 21st century."
+      }
+    },
+    {
+      "year": 2012,
+      "teams": ["ATL Falcons", "BAL Ravens", "CIN Bengals", "DEN Broncos", "GB Packers", "HOU Texans", "IND Colts", "MIN Vikings", "NWE Patriots", "SEA Seahawks", "SF 49ers", "WAS Redskins"],
+      "superBowlWinner": "BAL Ravens",
+      "conferenceChampions": ["BAL Ravens", "SF 49ers"],
+      "conferenceLosers": ["NWE Patriots", "ATL Falcons"],
+      "notes": {
+        "BAL Ravens": "Joe Flacco throws for 11 TDs in the playoffs, tied with Joe Montana (1989), Kurt Warner (2008), and later Patrick Mahomes (2021). Additionally, this is the Ravens franchise record of consecutive playoff seasons, 5 (2008-2012).",
+        "ATL Falcons": "Blew 17-0 lead in the NFC Championship (Falcons vs 49ers NFC Championship).",
+        "BAL/IND Colts": "Worst ever 11-5 team in NFL history, -30 point differential ."
+      }
+    },
+    {
+      "year": 2013,
+      "teams": ["CAR Panthers", "CIN Bengals", "DEN Broncos", "GB Packers", "IND Colts", "KC Chiefs", "SD Chargers", "NWE Patriots", "NO Saints", "PHI Eagles", "SEA Seahawks", "SF 49ers"],
+      "superBowlWinner": "SEA Seahawks",
+      "conferenceChampions": ["SEA Seahawks", "DEN Broncos"],
+      "conferenceLosers": ["SF 49ers", "NWE Patriots"],
+      "notes": {
+        "DEN Broncos": "Most points scored in a season, 606 Points (37.9 points/game).",
+        "KC Chiefs": "2nd biggest blown playoff lead in playoff history, 38-10 (Chiefs vs Colts AFC Wildcard Round)."
+      }
+    },
+    {
+      "year": 2014,
+      "teams": ["ARZ Cardinals", "BAL Ravens", "CAR Panthers", "CIN Bengals", "DAL Cowboys",  "DEN Broncos", "DET Lions", "GB Packers", "IND Colts", "NWE Patriots", "PIT Steelers", "SEA Seahawks"],
+      "superBowlWinner": "NWE Patriots",
+      "conferenceChampions": ["NWE Patriots", "SEA Seahawks"],
+      "conferenceLosers": ["IND Colts", "GB Packers"],
+      "negativeRecord": ["CAR Panthers"],
+      "notes": {
+        "CAR Panthers": "Second team to win a playoff game with a losing record."
+      }
+    },
+    {
+      "year": 2015,
+      "teams": ["ARZ Cardinals", "CAR Panthers", "CIN Bengals", "DEN Broncos", "GB Packers", "HOU Texans", "KC Chiefs", "MIN Vikings", "NWE Patriots", "PIT Steelers", "SEA Seahawks"],
+      "superBowlWinner": "DEN Broncos",
+      "conferenceChampions": ["DEN Broncos", "CAR Panthers"],
+      "conferenceLosers": ["ARZ Cardinals", "NWE Patriots"],
+      "notes": {
+        "KC Chiefs": "First playoff win since 1993. Started 1-5 and finished 11-5.",
+        "ARZ/STL Cardinals": "Last playoff win (11 years ago).",
+        "NWE Patriots": "Started 10-0 and fell to 12-4."
+      }
+    },
+    {
+      "year": 2016,
+      "teams": ["ATL Falcons", "DAL Cowboys", "DET Lions", "GB Packers", "HOU Texans", "KC Chiefs", "OAK Raiders", "MIA Dolphins", "NWE Patriots", "NYG Giants", "PIT Steelers", "SEA Seahawks"],
+      "superBowlWinner": "NWE Patriots",
+      "conferenceChampions": ["NWE Patriots", "ATL Falcons"],
+      "conferenceLosers": ["GB Packers", "PIT Steelers"],
+      "notes": {
+        "NWE Patriots": "Came back down 28-3 in Super Bowl 51, largest comeback in Super Bowl history.",
+        "OAK/LA/LV Raiders": "First playoff berth since 2002.",
+        "PIT Steelers": "Last playoff win to date.",
+        "GB Packers": "Franchise record for consecutive playoff seasons, 8 (2009-2016)."
+      }
+    },
+    {
+      "year": 2017,
+      "teams": ["ATL Falcons", "BUF Bills", "CAR Panthers", "JAX Jaguars", "KC Chiefs", "LAR Rams", "MIN Vikings", "NWE Patriots", "NO Saints", "PHI Eagles", "PIT Steelers", "TEN Titans"],
+      "superBowlWinner": "PHI Eagles",
+      "conferenceChampions": ["PHI Eagles", "NWE Patriots"],
+      "conferenceLosers": ["JAX Jaguars", "MIN Vikings"],
+      "notes": {
+        "BUF Bills": "First playoff berth since 1999. Now all 32 NFL teams have had a playoff berth in the 21st century.",
+        "JAX Jaguars": "First playoff berth since 2007.",
+        "NO Saints": "Minneapolis Miracle.",
+        "ATL Falcons": "Most recent playoff berth (9 years ago).",
+        "PHI Eagles": "Most recent franchise to win its first Super Bowl."
+      }
+    },
+    {
+      "year": 2018,
+      "teams": ["BAL Ravens", "CHI Bears", "DAL Cowboys", "HOU Texans", "IND Colts", "KC Chiefs", "LAC Chargers", "LAR Rams", "NWE Patriots", "NO Saints", "PHI Eagles", "SEA Seahawks"],
+      "superBowlWinner": "NWE Patriots",
+      "conferenceChampions": ["NWE Patriots", "LAR Rams"],
+      "conferenceLosers": ["KC Chiefs", "NO Saints"],
+      "notes": {
+        "KC Chiefs": "Most points/drive by an offense, 3.12 points/drive. Also first AFC Championship appearance since 1993.",
+        "LAR Rams": "No-call DPI in NFC Championship vs Saints.",
+        "NO Saints": "No-call DPI in NFC Championship vs Rams.",
+        "NWE Patriots": "Franchise/NFL record of most consecutive Championship appearances, 8 (2011-2018)."
+      }
+    },
+    {
+      "year": 2019,
+      "teams": ["BAL Ravens", "BUF Bills", "GB Packers", "HOU Texans", "KC Chiefs", "MIN Vikings", "NWE Patriots", "NO Saints", "PHI Eagles", "SEA Seahawks", "SF 49ers", "TEN Titans"],
+      "superBowlWinner": "KC Chiefs",
+        "conferenceChampions": ["KC Chiefs", "SF 49ers"],
+        "conferenceLosers": ["TEN Titans", "GB Packers"],
+      "notes": {
+        "OAK Raiders": "Last season in Oakland",
+        "KC Chiefs": "First Super Bowl win since 1969.",
+        "BAL Ravens": "Most rusing yards by a team, 3,296 Rushing Yards (205.8 yards/game) and highest point differential since the 2007 Patriots (+249).",
+        "HOU/TEN Oilers/Titans": "First AFC Championship appearance since 2002. Upsetted the 14-2 Ravens (Titans vs Ravens AFC Divisional Round).",
+        "BUF Bills": "First double-digit win season since 1999.",
+        "NWE Patriots": "First time since 2009 that the Patriots did not receive a first-round bye. Also the most recent team to allow 14.0-14.9 points/game range (Allowed 225 in the regular season)."
+      }
+    },
+    {
+      "year": 2020,
+      "teams": ["BAL Ravens", "BUF Bills", "CHI Bears", "CLE Browns", "GB Packers", "IND Colts", "KC Chiefs", "LAR Rams", "NO Saints", "PIT Steelers", "SEA Seahawks", "TAM Buccaneers", "TEN Titans", "WAS Football Team"],
+      "superBowlWinner": "TAM Buccaneers",
+      "conferenceChampions": ["TAM Buccaneers", "KC Chiefs"],
+      "conferenceLosers": ["BUF Bills", "GB Packers"],
+      "negativeRecord": ["WAS Football Team"],
+      "notes": {
+        "BUF Bills": "First playoff win since 1996 and first AFC Championship appearance since 1993.",
+        "CLE Browns": "First playoff berth since 2002 and first playoff win since 1994. Also one of the worst 11-5 teams, -11 point differential.",
+        "PIT Steelers": "Started 11-0 and finished 12-4 and lost to the Browns (Browns vs Steelers AFC Wildcard Round).",
+        "TAM Buccaneers": "First playoff win since 2002 and 2nd Super Bowl in franchise history."
+      }
+    },
+    {
+      "year": 2021,
+      "teams": ["ARZ Cardinals", "BUF Bills", "CIN Bengals", "DAL Cowboys", "GB Packers", "KC Chiefs", "LAR Rams", "LV Raiders", "NWE Patriots", "PHI Eagles", "PIT Steelers", "SF 49ers", "TAM Buccaneers", "TEN Titans"],
+      "superBowlWinner": "LAR Rams",
+      "conferenceChampions": ["LAR Rams", "CIN Bengals"],
+      "conferenceLosers": ["KC Chiefs", "SF 49ers"],
+      "notes": {
+        "CIN Bengals": "First playoff win since 1990.",
+        "GB Packers": "Upsetted by 10-7 49ers due to huge special teams errors (Packers vs 49ers NFC Divisional Round).",
+        "PHI Eagles": "Did not beat a single playoff team in the regular season or postseason, 1-7 against teams over .500 in the regular season.",
+        "OAK/LA/LV Raiders": "Won 4 overtime games in the regular season, a tied record. Also had a -65 point differential, the worst for a playoff team since the 2010 Seahawks (-97).",
+        "ARZ/STL Cardinals": "Started 7-0 and fell to 11-6."
+      }
+    },
+    {
+      "year": 2022,
+      "teams": ["BAL Ravens", "BUF Bills", "CIN Bengals", "DAL Cowboys", "JAX Jaguars", "KC Chiefs", "LAC Chargers", "MIA Dolphins", "MIN Vikings", "NYG Giants", "PHI Eagles", "SEA Seahawks", "SF 49ers", "TAM Buccaneers"],
+      "superBowlWinner": "KC Chiefs",
+      "conferenceChampions": ["KC Chiefs", "PHI Eagles"],
+      "conferenceLosers": ["CIN Bengals", "SF 49ers"],
+      "negativeRecord": ["TAM Buccaneers"],
+      "notes": {
+        "SD/LAC Chargers": "3rd biggest blown playoff lead in playoff history, 27-0 (Chargers vs Jaguars AFC Wildcard Round). Faggoty ass bitches.",
+        "NYG Giants": "First playoff win since Super Bowl 46 (Giants vs Vikings NFC Wildcard Round). Also a statistically bad regular season team.",
+        "MIN Vikings": "Most fraudulent playoff team in NFL history, 13-4 with a -3 point differential.",
+        "TAM Buccaneers": "8-9"
+      }
+    },
+    {
+      "year": 2023,
+      "teams": ["BAL Ravens", "BUF Bills", "CLE Browns", "DAL Cowboys", "DET Lions", "GB Packers", "HOU Texans", "KC Chiefs", "LAR Rams", "MIA Dolphins", "PHI Eagles", "PIT Steelers", "SF 49ers", "TAM Buccaneers"],
+      "superBowlWinner": "KC Chiefs",
+      "conferenceChampions": ["KC Chiefs", "SF 49ers"],
+      "conferenceLosers":["BAL Ravens", "DET Lions"],
+      "notes": {
+        "DET Lions": "First playoff win since 1991 and first NFC Championship appearance since 1991.",
+        "CLE Browns": "In 9 home games, defense allowed 125 points (13.9 points/game) while in 8 away games the defense allowed 237 points (29.6 points/game).",
+        "DAL Cowboys": "Upsetted by 9-8 Packers (Packers vs Cowboys NFC Divisional Round).",
+        "KC Chiefs": "First 2-peat champions since 2003-2004 Patriots.",
+        "PHI Eagles": "Started 10-1 and fell to 11-6."
+      }
+    },
+    {
+      "year": 2024,
+      "teams": ["BAL Ravens", "BUF Bills", "DEN Broncos", "DET Lions", "GB Packers", "HOU Texans", "KC Chiefs", "LAC Chargers",  "LAR Rams", "MIN Vikings", "PHI Eagles", "PIT Steelers", "TAM Buccaneers", "WAS Commanders"],
+      "superBowlWinner": "PHI Eagles",
+      "conferenceChampions": ["PHI Eagles", "KC Chiefs"],
+      "conferenceLosers": ["BUF Bills", "WAS Commanders"],
+      "notes": {
+        "WAS Redskins/Football Team/Commanders": "First playoff win since 2005 and first NFC Championship appearance since 1991.",
+        "BAL Ravens": "4th team to reach 7000 yards of offense (7224 Total Yards).",
+        "KC Chiefs": "Franchise record for most consecutive playoff seasons, 10 (2015-2014).",
+        "HOU Texans": "Point differential of 0, first for a playoff team."
+      }
+    },
+    {
+      "year": 2025,
+      "teams": ["BUF Bills", "CAR Panthers", "CHI Bears", "DEN Broncos", "GB Packers", "HOU Texans", "JAX Jaguars", "LAC Chargers", "LAR Rams", "NWE Patriots", "PHI Eagles", "PIT Steelers", "SEA Seahawks", "SF 49ers"],
+      "superBowlWinner": "SEA Seahawks",
+      "conferenceChampions": ["SEA Seahawks", "NWE Patriots"],
+      "conferenceLosers": ["DEN Broncos", "LAR Rams"],
+      "negativeRecord": ["CAR Panthers"],
+      "notes": {
+        "CHI Bears": "First playoff win since 2010.",
+        "HOU Texans": "Most consecutive playoff appearances in franchise history, 3.",
+        "BUF Bills": "Hold the current streak of consecutive playoff seasons, 7 (2019-2025).",
+        "NWE Patriots": "Only played 2 playoff teams in the regular season. Strength of schedule was a candy-like .391.",
+        "PIT Steelers": "Tyler Loop. Fuck that bitch.",
+        "DEN Broncos": "First playoff win since Super Bowl 50 (2015).",
+        "GB Packers": "Started 9-3-1 and fell to 9-7-1, blew 21-3 lead against the Bears (Packers vs Bears NFC Wildcard Round)."
+      }
+    }
+  ]
+}
