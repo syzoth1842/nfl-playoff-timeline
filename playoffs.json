@@ -1,0 +1,66 @@
+{
+  "2019": {
+    "teams": {
+      "Baltimore Ravens": {
+        "performance": "Divisional"
+      },
+      "San Francisco 49ers": {
+        "performance": "Super Bowl"
+      },
+      "Kansas City Chiefs": {
+        "performance": "Super Bowl"
+      },
+      "Green Bay Packers": {
+        "performance": "Championship"
+      }
+    }
+  },
+  "2020": {
+    "teams": {
+      "Tampa Bay Buccaneers": {
+        "performance": "Super Bowl"
+      },
+      "Buffalo Bills": {
+        "performance": "Championship"
+      },
+      "Kansas City Chiefs": {
+        "performance": "Super Bowl"
+      },
+      "Green Bay Packers": {
+        "performance": "Championship"
+      }
+    }
+  },
+  "2021": {
+    "teams": {
+      "Los Angeles Rams": {
+        "performance": "Super Bowl"
+      },
+      "Cincinnati Bengals": {
+        "performance": "Super Bowl"
+      },
+      "San Francisco 49ers": {
+        "performance": "Championship"
+      },
+      "Kansas City Chiefs": {
+        "performance": "Championship"
+      }
+    }
+  },
+  "2022": {
+    "teams": {
+      "Los Angeles Rams": {
+        "performance": "Divisional"
+      },
+      "Philadelphia Eagles": {
+        "performance": "Super Bowl"
+      },
+      "Kansas City Chiefs": {
+        "performance": "Super Bowl"
+      },
+      "San Francisco 49ers": {
+        "performance": "Championship"
+      }
+    }
+  }
+}
